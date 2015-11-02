@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: ADEPT plugin
-Description: Site specific code ADEPT - Queen Mary's University
+Plugin Name: Barebase WP Plugin
+Description: Generic plugin for theme-specific stuff
 Version: 1.0
 Author: Base Creative
 Author URI: http://basecreative.co.uk
