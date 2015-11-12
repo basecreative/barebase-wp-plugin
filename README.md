@@ -3,7 +3,7 @@ Default theme plugin for Base Creative's Wordpress sites
 
 Use this plugin to set anything content-related, like custom post types, taxonomies and hiding stuff you don't want.
 
-First thing you need to do is creating a folder in the `plugins` folder of your WordPress installation with a project-related name. Then you must put these files in there, and rename the file `barebase-wp-plugin.php` to the same name that folder has. 
+First thing you need to do is creating a folder in the `plugins` folder of your WordPress installation with a project-related name. Then you must put these files in there, and rename the file `barebase-wp-plugin.php` to the same name that folder has.  
 Example: If the project was google.com, you must have a folder on `wp-content/plugins` called `google-theme-plugin` for example and then rename `barebase-wp-plugin.php` to `google-theme-plugin.php`.
 
 Then you can start creating:
@@ -15,4 +15,4 @@ Then you can start creating:
 You have some examples commented out so you know what you can start with.
 
 ## Settings
-The `settings.phpz is a work in progress but allows you to change some settings in the plugin.
+The `settings.php` is a work in progress but allows you to change some settings in the plugin.
