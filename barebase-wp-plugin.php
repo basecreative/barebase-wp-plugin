@@ -7,6 +7,8 @@ Author: Base Creative
 Author URI: http://basecreative.co.uk
 */
 
+// Remember to rename this file and the folder to the name of the plugin
+
 add_action( 'init', 'barebase_wp_plugin_init' );
 
 
@@ -21,4 +23,7 @@ include_once('lib/acf.php');
 // Launched on init
 function barebase_wp_plugin_init() {
 	// Here's where the magic happens
+
+	// cpt_resource();
+	// ctx_theme();
 }
